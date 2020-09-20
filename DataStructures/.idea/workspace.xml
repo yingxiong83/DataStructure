@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1072f82b-9451-4996-9edb-f04fdb901553" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\developer\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../developer/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\developer\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="skipTests" value="true" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal -Dfile.encoding=gb2312" />
+  </component>
+  <component name="ProjectId" id="1hFxlUgZwBrf1I9IT9HScxXWOrf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/TortoiseSVN/bin/svn.exe" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager" selected="Application._01BinaryTreeTraversing">
+    <configuration name="_01BinaryTreeTraversing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu._11tree._01binaryTree._01BinaryTreeTraversing" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu._11tree._01binaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_01HashTableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu._10hashtable._01HashTableDemo" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu._10hashtable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu._09search._02BinarySearch" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu._09search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03InterpolationSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu._09search._03InterpolationSearch" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu._09search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_04FibonacciSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu._09search._04FibonacciSearch" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu._09search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._01BinaryTreeTraversing" />
+        <item itemvalue="Application._01HashTableDemo" />
+        <item itemvalue="Application._04FibonacciSearch" />
+        <item itemvalue="Application._03InterpolationSearch" />
+        <item itemvalue="Application._02BinarySearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\刘的电脑\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1072f82b-9451-4996-9edb-f04fdb901553" name="Default Changelist" comment="" />
+      <created>1599620792975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599620792975</updated>
+      <workItem from="1599620797002" duration="7052000" />
+      <workItem from="1599719911617" duration="4936000" />
+      <workItem from="1599788648651" duration="19076000" />
+      <workItem from="1599913431066" duration="3153000" />
+      <workItem from="1599965670954" duration="25294000" />
+      <workItem from="1600130680699" duration="22270000" />
+      <workItem from="1600227918442" duration="2712000" />
+      <workItem from="1600233745983" duration="9332000" />
+      <workItem from="1600342846187" duration="6554000" />
+      <workItem from="1600399591285" duration="12725000" />
+      <workItem from="1600429681438" duration="5992000" />
+      <workItem from="1600482065728" duration="4124000" />
+      <workItem from="1600497446915" duration="15348000" />
+      <workItem from="1600576437750" duration="12403000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1600592279456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="517" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1600592279456" />
+    <state width="1493" height="165" key="GridCell.Tab.0.bottom" timestamp="1600594072988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600594072988" />
+    <state width="1493" height="165" key="GridCell.Tab.0.center" timestamp="1600594072988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600594072988" />
+    <state width="1493" height="165" key="GridCell.Tab.0.left" timestamp="1600594072988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600594072988" />
+    <state width="1493" height="165" key="GridCell.Tab.0.right" timestamp="1600594072988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600594072988" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1600486379852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600486379852" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1600486379852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600486379852" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1600486379852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600486379852" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1600486379852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600486379852" />
+    <state x="93" y="93" width="1350" height="638" key="dock-window-1" timestamp="1599794949702">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1599794949702" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600583380379">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1600583380379" />
+  </component>
+</project>
